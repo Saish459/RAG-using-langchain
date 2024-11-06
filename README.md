@@ -1,6 +1,6 @@
 # RAG-using-langchain 🔗
 
-**This project aims to implement RAG using LangChain which uses OpenAI API key and Chroma for VectorDB.**
+**This project aims to implement RAG using LangChain which uses OpenAI API key and Chroma for VectorDB.This project aims to implement RAG using LangChain which uses OpenAI API key and Chroma for VectorDB. Using this technique we can build interactive AI applications with personal/enterprise data**
 
 ## Install dependencies
 
