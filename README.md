@@ -1,4 +1,6 @@
-# RAG-using-langchain
+# RAG-using-langchain 🔗
+
+**This project aims to implement RAG using LangChain which uses OpenAI API key and Chroma for VectorDB.**
 
 ## Install dependencies
 
@@ -7,7 +9,6 @@
     ```python
      conda install onnxruntime -c conda-forge
     ```
-     - For Windows users, follow the guide [here](https://github.com/bycloudai/InstallVSBuildToolsWindows?tab=readme-ov-file) to install the Microsoft C++ Build Tools.
   
 2. Now run this command to install dependenies in the `requirements.txt` file. 
 
@@ -34,5 +35,5 @@ python Create_VectorDB.py
 Query the Chroma DB.
 
 ```python
-python Search_Data.py "How does Alice meet the Mad Hatter?"
+python Search_Data.py "How does Alice related to Mad Hatter?"
 ```
